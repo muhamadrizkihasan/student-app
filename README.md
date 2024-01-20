@@ -12,7 +12,7 @@ cp .env.example .env
 2. Konfigurasi database melalui file `.env`
 
 ```conf
-DB_DATABASE=db_apotek
+DB_DATABASE=db_student
 ```
 
 3. Migrasi and symlink
